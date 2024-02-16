@@ -6,7 +6,9 @@ In this part will explain and show proof of how code works. I will go through wh
 ## MENU:
 Menu has cases 1-4 as instructed Menu is in a loop and only q or Q shuts down the program:
 ![image](https://github.com/Karppimc/Searchingsort/assets/54446639/eccdb96a-9bb6-4a7b-8bef-a23ec9f6f77e)
+
 If you press other numbers/letters you get text “Invalid choice. Please enter a valid option” And prompt comes again.
+
 ![image](https://github.com/Karppimc/Searchingsort/assets/54446639/97ef4e66-77a9-40d9-81d3-854555ae5d62)
 
 ## 1st Linear Search
