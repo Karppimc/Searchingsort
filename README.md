@@ -1,5 +1,5 @@
 # Searchingsort
-This project was done for Programmin Languages 3 as final project
+This project was done for Programmin Languages 3 as final project. Program is done with Java and I used IntelliJ IDEA for it.
 
 # How it works
 In this part will explain and show proof of how code works. I will go through whole path from start to finish with different scenarios.
